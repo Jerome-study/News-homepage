@@ -7,7 +7,7 @@ Some designs from front-end mentor. Practicing my CSS skills
   <div style="display: flex;">
     
 <img width="450" height="250" src="https://github.com/Jerome-study/News-homepage/assets/119875460/dcccdd94-9948-40f7-9cf9-3ae3f959449d" style="vertical-align: top;" />
-<img width="450" height="250" src="https://github.com/Jerome-study/News-Letter-Sign-up-with-Success-Message/assets/119875460/cf50ca0a-5a0d-4ac6-b1bb-0038face1a49" style="vertical-align: top;" />
+
 
   </div>
 </div>
